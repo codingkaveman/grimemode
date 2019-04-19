@@ -138,5 +138,8 @@ footer h1 {
     padding: 35px;
     text-align: center;
     text-decoration: overline;
-    
+}
+footer h1 a {
+    color: white;
+    text-decoration-line: none;
 }
