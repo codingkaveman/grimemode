@@ -92,7 +92,7 @@ i {
     width: 10px;
 }
 .music-player {
-    height: 100px;
+    height: auto;
     margin-bottom: 30px;
     margin-left: 10px;
     margin-right: 10px;
